@@ -1,0 +1,2404 @@
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---[2025-03-13T12:21:12.616Z] loyche: hej
+[2025-03-13T12:21:12.616Z] loyche: hej
+---
+Rel!chunter — 20-10-2024 03:23
+Changes for 0.36:
+
+Nerfed High Priestess Alucia boss encounter.
+Portal to the Burning Summit area can now be accessed prior to defeating the High Priestess
+Slightly changed the King of Elements encounter and gave him a new ability
+All Masteries are now available at all levels - Some have been changed slightly
+The Divine Storm ability for the Royal Guard is no longer overwritten when triggered by his Divine Intervention divine fragment upgrade. The Divine Storm can now trigger whether his Divine Storm ability is on cooldown or not but now has 1% trigger chance (Bouncing Glaive can also trigger the effect). Divine Storm ability damage now stacks
+Changed the the trap area south of the Grand Templar
+Added new secrets
+
+New item:
+
+The Peacekeeper
+(Tier 2 Legendary)
+Strength: +20
+Armor: +1
+
+New Item combination
+Truth Piercer + Heart of the Phoenix = Sickle of Corrosion
+
+Sickle of Corrosion
+(Tier 2 Legendary)
+Strength: +16
+Intelligence: +8
+Attack Damage: +16
+Health Regeneration: +5
+Passive Orb Effect - Sickle of Corrosion: Attacks reduce the target's armor by 9 for 7 seconds and deals 420 damage over the duration.
+
+Added a new T2 divine item
+---
+Rel!chunter — 12-01-2025 04:12
+Changes for 0.37:
+
+Some Masteries were slightly changed
+Changed some numbers on the Blood Lord's abilities and cleaned some tooltips
+Nerfed the stats of some particular strong mobs (Flesh Monstrosity, Risen invader, etc)
+The Festering Corruption should now cast Festering Growth more consistent
+Seal Race blink ability should now work properly.
+Fixed the Plague Blisters in the Crypt King's domain
+Added TWO new secret bosses
+Added ONE new secret
+Added 2 new Quests for The Veiled One, allowing access to early version of Veiled Equipment in the earlier stages of the map by completing them.
+Added a new Gate to The Veiled One
+Added some new abilities to some enemies
+Added a Shop at the bandit camp that sells T1 Uncommon (In case you were unlucky)
+Nerfed the 2 second stun on the Frost Mage's empowered Ice Shards, it now only mini-stuns. To compensate the base damge of her Ice Shards has been increased.
+
+New divine fragment upgrades
+
+Feeding Frenzy
+Permanently upgrades the Blood Lust ability for the Blood Lord. Whenever the Blood Lord summons Bloodworms theres a chance to summon an additional Bloodworm that has massively increased attack speed.
+
+Trigger Chance: 40%
+Bloodworm Attack Speed Bonus: 300%
+
+Bone Chill
+Permanently upgrades the Endless Winter ability for the Frost Mage. Using the ability causes the Frost Mage to cast an aura, reducing the movement speed of all nearby enemies and exposing them to the Frost Mage's abilities as if they were affected by Winter's Curse.
+
+Bone Chill Aura Duration: 20 Seconds
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 25-01-2025 18:16
+Changes for 0.37:
+
+Added new Masteries
+Added a new Mythical Beast
+Nerfed the amount of attack damage Artillery Team gains per level
+Iron Raven's Shadows Strike upgrade now also extends the duration of Raven Form
+Added a Random hero picker (For the psychos who wanted this)
+Added Secret Hero team-up bonuses! Picking certain heroes together now provides some goodies
+Added a secondary inventory to the backpack, so you now have additional 6 slots to store items, this can be accessed by using the backpacks new ability
+
+Added a new divine fragment upgrade:
+
+Starving Hydras
+Permanently upgrades the Hydra's Breath ability for the Naga Queen. Reducing the amount of Casts to summon Hydras and increasing their summon duration.
+
+Starving Hydras Duration Increase: +30 Seconds
+Starving Hydras Cast Reduction: -5 Casts
+---
+Rel!chunter — 23-02-2025 00:34
+Changes for 0.38:
+
+The Tyrant of Soul's Frozen tomb ability is now more noticable and his Monument of Death ability can now spawn in 3 different locations in the arena
+The Herald of Doom boss now casts Death From Above every 13 seconds instead of when reaching 100 mana. The summoned infernals are weaker but deals more AoE damage when summoned.
+Phantom and Reaver now gets extra mad when the other dies.
+Voidbane now has a new ability when facing him on Insane+ difficulty
+Slightly buffed the Pit Lord boss. Instead he now enrages at 40%, his attacks grants him stacking attack damage while enraged. Additionally his Drain Life ability is no longer a channel. But deals damage based on how far away the targeted Hero is after a duration. He heals for 300% of the damage dealt by this ability
+Added 1 New secret Boss
+Added 1 New secret Hero /w 5 Divine fragment upgrades (This can be unlocked solo and on any difficulty)
+Added new secrets
+Added 1 new lvl 14 mastery
+Changed some more masteries
+Added some new divine fragments to some secret heroes
+
+Added a new item:
+
+Omensteel Axe
+(Tier 4 Rare)
+Attack Damage: +112
+All Attributes: +2
+
+Added a new T3 divine item
+---Rel!chunter — 08-03-2025 16:52
+Changes for 0.38:
+
+When a player swap backpack compartment it should no longer swap their teammates.
+Slightly changed the Exiled Priest, changed some numbers and cleaned up some tooltips.
+W: Now scales with Intelligence. Mana cost increased
+E: Shadow Word: Reflection -> Summon Shadowbeast
+Summon Shadowbeast
+The Exiled Priest conjures a Shadowbeast for the target. The Shadowbeast's attacks restores mana to the target equal to 25% of it's damage
+R: No longer gives attack speed but more more attributes.
+Some of his divine fragments have been adjusted
+
+Judgement -> Shadow Word Death
+Permanently upgrades the Smite ability for the Exiled Priest. Every 3rd use of the ability deals triple damage. (No longer deals damage in an area)
+
+Added new divine fragments:
+
+Purged by the Light
+Permanently upgrades the Holy Beacon ability for the Exiled Priest. The Exiled Priest is always affected by Blessed Blades. Additionally he gains bonus attack speed.
+
+Purged by the Light Attack Speed Increase: +25%
+
+Symbol of Hope
+Permanently upgrades the Prayer ability for the Exiled Priest. Each target that is healed by Prayer through Holy Beacon reduces the current cooldown of Power Infusion.
+
+Power Infusion Cooldown Reduced: -1 per active Holy Beacon

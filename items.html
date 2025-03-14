@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WC3Rise Items</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Bootstrap (Optional) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="functionality.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <ul class="nav-links">
+                <li><a href="home.html">Home</a></li>
+                <li><a href="items.html">Items</a></li>
+                <li><a href="heroes.html">Heroes</a></li>
+                <li><a href="bosses.html">Bosses</a></li>
+                <li><a href="downloads.html">Downloads</a></li>
+            </ul>
+        </nav>
+
+        <!-- Hero Section -->
+        <header class="hero"></header>
+
+        <!-- Main Content -->
+        <section class="container" style="background-color: rgba(104, 104, 104, 0.5);">
+            <div class="grid">
+                <div class="card">
+                    <h2>Items</h2>
+                    <p>Items are a big part of the game, and can be combined to create even stronger items. The items are divided into different categories, and can be found in different ways. Some items can be bought from the shop, while others can be found in the world. Some items can only be found by defeating bosses, and some items can only be found by completing certain tasks.</p>
+                    <p>Below you can see a list of all the items in the game, and how they can be combined to create even stronger items.</p>
+                </div>
+            </div>
+            <div class="searchBar">
+                <select id="itemCategory" onchange="filterItems()">
+                    <option value="all">All Categories</option>
+                    <option value="uncommon">Uncommon</option>
+                    <option value="rare">Rare</option>
+                    <option value="epic">Epic</option>
+                    <option value="legendary">Legendary</option>
+                    <option value="divine">Divine</option>
+                </select>
+                <input type="text" id="searchBar" placeholder="Search for items..." onkeyup="searchGrid()">
+            </div>
+            <div class="grid">
+                <div class="itemCard" id="uncommon"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Copper Scarab Figurine</h3>
+                    <h6>(Tier 1 Uncommon)</h6>
+                    <p>Mana Regeneration: +0.5<br>Agility: +2</p>
+                    <p>Cannot be combined</p>
+                </div>
+                <div class="itemCard" id="rare"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Battle Hammer</h3>
+                    <h6>(Tier 1 Rare)</h6>
+                    <p>Attack Damage: +5<br>Intelligence: +2<br>Strength: +2</p>
+                    <p>Combine with: Knight's Medallion<br>Create: Juggernaught's Crusher</p>
+                </div>
+                <div class="itemCard" id="epic"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Some Epic Item</h3>
+                </div>
+                <div class="itemCard" id="legendary"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Some Legendary Item</h3>
+                </div>
+                <div class="itemCard" id="divine"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Some Divine Item</h3>
+                </div>
+                <div class="itemCard" id="rare"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="rare"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="uncommon"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="legendary"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="uncommon"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="uncommon"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+                <div class="itemCard" id="rare"><img src="img/Items/Belt of Giant Strength.png" alt = "belt">
+                    <h4>Belt of Giant Strength</h3>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2025 WC3Rise - Website designed by Mathias H. Løyche</p>
+        </footer>
+    </div>
+</body>
+</html>
