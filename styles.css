@@ -56,7 +56,7 @@ html {
     padding: 20px;
 }
 
-.grid {
+.grid, .item_grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
@@ -68,28 +68,6 @@ html {
     align-items: center; 
     text-align: center; 
     padding: 20px;
-}
-
-.itemCard {
-    display: block;
-    flex-direction: column; 
-    align-items: center; 
-    text-align: center; 
-    justify-content: center;
-    padding: 20px;
-    background-color: white;
-    height: 350px;
-    max-width: 300px;
-    margin: 5px;
-    border-radius: 10px;
-    border: black 1px solid;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-
-.itemCard p{
-    align-items: left; 
-    text-align: left; 
-    padding: 10px;
 }
 
 /* Footer */
@@ -121,29 +99,80 @@ html {
     background-color: rgba(104, 104, 104, 0.306);
 }
 
-/* Item rarities */
+/* Item rarities & images */
 
-#uncommon {
+#uncommon, #tier-1-uncommon, #tier-2-uncommon, #tier-3-uncommon, #tier-4-uncommon {
     background-color: #279a2b;
     color: white;
 }
 
-#rare {
+#rare, #tier-3-rare, #tier-2-rare, #tier-1-rare, #tier-4-rare {
     background-color: #131b7a;
     color: white;
 }
 
-#epic {
+#epic, #tier-1-epic, #tier-2-epic, #tier-3-epic, #tier-4-epic {
     background-color: #3c0959;
     color: white;
 }
 
-#legendary {
-    background-color: #dc7806;
+#legendary, #tier-1-legendary, #tier-2-legendary, #tier-3-legendary, #tier-4-legendary {
+    background-color: rgb(212, 94, 25);
     color: white;
 }
 
-#divine {
-    background-color: #dbca10;
+#divine, #tier-1-divine, #tier-2-divine, #tier-3-divine, #tier-4-divine {
+    background-color: #ff0000;
     color: white;
+}
+
+.item_img {
+    height: 60px;
+    width: 60px;
+    border: solid black 2px;
+    border-radius: 5px;
+}
+
+.itemCard {
+    display: block;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    justify-content: center;
+    padding: 20px;
+    background-color: white;
+    height: 400px;
+    max-width: 300px;
+    margin: 5px;
+    border-radius: 10px;
+    border: black 1px solid;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    overflow: none;
+}
+
+.itemCard p{
+    align-items: left; 
+    text-align: left; 
+    padding: 10px;
+    font-size: 14px;
+}
+
+.itemCard h4{
+    padding: 3px;
+    font-size: 20px;
+}
+
+.itemCard h6{
+    font-size: 16px;
+}
+
+.item_description{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    overflow-y: auto;
+    overflow-wrap: break-word;
+    height: 150px;
+    max-width: 255px;
+    background-color: rgba(60, 60, 60, 0.5);
 }

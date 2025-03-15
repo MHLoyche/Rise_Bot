@@ -1,3 +1,4 @@
+/* Fetching patch notes from testdb.log for home page */
 document.addEventListener("DOMContentLoaded", function () {
     fetch("testdb.log")
         .then(response => response.text())
@@ -9,8 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
             console.error("Error loading patch notes:", error);
         });
 });
-
-
 
 
 /* Filter through drop down menu */
@@ -26,3 +25,31 @@ function filterItems() {
         }
     }
 }
+
+
+/* Script to create item cards */
+fetch('WC3 Items.json')
+    .then(response => response.json())
+    .then(data => {
+        const container = document.getElementById('itemGrid'); // Assuming an existing div
+
+        data.forEach(item => {
+            const itemCard = document.createElement('div');
+            itemCard.classList.add('itemCard');
+            itemCard.id = item.rarity.replace(/\s+/g , '-').toLowerCase(); // Convert rarity to lowercase with dashes
+            
+            // Generate HTML for each item
+            itemCard.innerHTML = `
+                <img src="img/Items/${item.name.toLowerCase()}.png" class="item_img" alt="${item.name}">
+                <h4>${item.name}</h4>
+                <h6>(${item.rarity})</h6>
+                <div class="item_description">
+                    <p>${item.stats.join('<br>')}</p>
+                </div>
+                ${item.combination ? `<p>${item.combination}</p>` : ''}
+            `;
+
+            container.appendChild(itemCard);
+        });
+    })
+    .catch(error => console.error('Error loading the items:', error));

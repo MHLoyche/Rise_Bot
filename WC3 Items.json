@@ -1,0 +1,1034 @@
+[
+    {
+        "name": "Copper Scarab Figurine",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Mana Regeneration: +0.5",
+            "Agility: +2"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Glyph of Nature",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "All Attributes: +1"
+        ],
+        "combination": "Can be combined with a <b>Runestone Pendant</b> to create <b>Nature's Runestone</b>"
+    },
+    {
+        "name": "Pickaxe",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Mana Regeneration: +0.5",
+            "Strength: +2"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Plate Shield",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Health: +100",
+            "Armor: +1"
+        ],
+        "combination": "Can be combined with <b>Holy Essence</b> to create <b>Shield of Light</b>"
+    },
+    {
+        "name": "Ring of Brilliance",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Mana: +100",
+            "Intelligence: +2"
+        ],
+        "combination": "Can be combined with <b>Enchanter's Robe</b> to create <b>Robe of the Arcane</b>"
+    },
+    {
+        "name": "Ritual Dagger",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Mana Regeneration: +0.5",
+            "Intelligence: +2"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Swift Blade",
+        "rarity": "Tier 1 Uncommon",
+        "stats": [
+            "Attack Damage: +3",
+            "Attack Speed: +10%"
+        ],
+        "combination": "Can be combined with a <b>Battle Hammer</b> to create <b>Armor Splitter</b>"
+    },
+    {
+        "name": "Archmage's Rune",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Intelligence: +5",
+            "Mana: +700"
+        ],
+        "combination": "Can be combined with <b>Sacred Tome</b> to create <b>Equilibrium</b>"
+    },
+    {
+        "name": "Assassin Claw",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Agility: +15",
+            "Mana: +250",
+            "Mana Regeneration: +2"
+        ],
+        "combination": "Can be combined with <b>Laceration Unguis</b> to create <b>Swampstalker's Grasp</b>"
+    },
+    {
+        "name": "Band of Life",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Health: +300",
+            "Health Regeneration: +92"
+        ],
+        "combination": "Can be combined with <b>Knight's Medallion</b> to create <b>Juggernaut's Crusher</b>"
+    },
+    {
+        "name": "Battle Hammer",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Attack Damage: +5",
+            "Intelligence: +2",
+            "Strength: +2"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Big Bamboo Stick",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Strength: +18"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Bloodletter's Charm",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Attack Damage: +27",
+            "Attack Speed: +15%"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Bone Cudgel",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Damage: +30",
+            "Strength: +4",
+            "Agility: +2"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Bottomless Healing Potion",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Item Activation: Heals for 250 Health (30 second cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Bottomless Mana Potion",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Item Activation: Restores 150 Mana (30 second cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Crimson Amulet",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Intelligence: +4",
+            "Health: +50",
+            "Mana Regeneration: +1"
+        ],
+        "combination": "Can be combined with <b>Staff of Energy</b> to create <b>Staff of Brilliance</b>"
+    },
+    {
+        "name": "Crystalized Heart",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Intelligence: +34"
+        ],
+        "combination": "Can be combined with <b>Hallowed Skull</b> to create <b>Sight of Beyond</b>"
+    },
+    {
+        "name": "Cursed Bell",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Mana Regeneration: +25%",
+            "Health: +200",
+            "Item Activation - Incite Madness: Reduces the armor of all nearby units by 12 and increasing their damage by 35% for 12 seconds"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Dawnrose",
+        "rarity": "tier 2 Rare",
+        "stats": [
+            "Health Regeneration: +4",
+            "Mana Regeneration: +2"
+        ],
+        "combination": "Can be combined with <b>Bottomless Healing Potion</b> to create <b>Hero's Bottomless Healing Potion</b>"
+    },
+    {
+        "name": "Drakehide Shoulderpads",
+        "rarity": "tier 2 Rare",
+        "stats": [
+            "Health: +250",
+            "Armor: +2",
+            "Agility: +5"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Elven Shortbow",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Agility: +3",
+            "Attack Speed: +10%",
+            "Attack Damage: +4"
+        ],
+        "combination": "Can be combined with <b>Swiftstep</b> to create <b>Swiftshot</b>"
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    },
+    {
+        "name": "",
+        "rarity": "",
+        "stats": [
+            ""
+        ],
+        "combination": ""
+    }
+]
