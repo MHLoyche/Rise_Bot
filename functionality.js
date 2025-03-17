@@ -18,7 +18,7 @@ function filterItems() {
     var items = document.getElementsByClassName("itemCard");
 
     for (var i = 0; i < items.length; i++) {
-        if (category === "all" || items[i].id === category) {
+        if (category === "all" || items[i].id.includes(category)) {
             items[i].style.display = "block";
         } else {
             items[i].style.display = "none";

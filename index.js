@@ -43,7 +43,7 @@ client.on('messageCreate', async (message) => {
         hour12: false, // Use 24-hour format
     }).replace(",", ""); // Removes comma between date and time
     console.log(`Received message: ${message.content}`);
-    const logEntry = `[${formattedDate}] ${message.author.tag}:\n ${message.content}\n`;
+    const logEntry = `[${formattedDate}] ${message.author.tag}:\n ${message.content}\n\n`;
 
     try {
         // Read existing logs
@@ -53,7 +53,7 @@ client.on('messageCreate', async (message) => {
         }
 
         // Prepend new log entry at the beginning
-        const updatedLogs = logEntry + "---\n" + existingLogs;
+        const updatedLogs = logEntry + "---\n\n" + existingLogs;
 
         // Overwrite the file with new order (newest messages at the top)
         fs.writeFileSync(LOG_FILE, updatedLogs, "utf8");

@@ -87,7 +87,7 @@
             "Health: +300",
             "Health Regeneration: +92"
         ],
-        "combination": "Can be combined with <b>Knight's Medallion</b> to create <b>Juggernaut's Crusher</b>"
+        "combination": "Can be combined with <b>Royal Vestment</b> to create <b>Dream Band</b>"
     },
     {
         "name": "Battle Hammer",
@@ -97,7 +97,7 @@
             "Intelligence: +2",
             "Strength: +2"
         ],
-        "combination": ""
+        "combination": "Can be combined with <b>Knight's Medallion</b> to create <b>Juggernaut's Crusher</b>"
     },
     {
         "name": "Big Bamboo Stick",
@@ -200,164 +200,191 @@
         "combination": "Can be combined with <b>Swiftstep</b> to create <b>Swiftshot</b>"
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Enchanter's Robe",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "Intelligence: +5",
+            "Health: +75"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Gloves of Precision",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "Agility: +2",
+            "Strength: +2",
+            "Health: +50"
+        ],
+        "combination": "Can be combined with <b>Swift Blade</b> to create <b>Blade Gloves</b>"
+    },
+    {
+        "name": "Gold Locket",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Intelligence: +15",
+            "Strength: +12",
+            "Agility: +6",
+            "Armor: +2"
+        ],
+        "combination": "Can be combined with <b>Watcher's Eye</b> to create <b>Greed</b>"
+    },
+    {
+        "name": "Greensprout",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Health Regeneration: +4",
+            "Mana Regeneration: +8"
+        ],
+        "combination": "Can be combined with <b>Hero's Bottomless Mana Potion</b> to create <b>Champion's Bottomless Mana Potion</b>"
+    },
+    {
+        "name": "Heavy Lance",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Attack Damage: +12",
+            "Strength: +8"
+        ],
+        "combination": "Can be combined with <b>Zealot's Belt</b> to create <b>Truth Piercer</b>"
+    },
+    {
+        "name": "Holy Essence",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "All Attributes: +2"
+        ],
+        "combination": "Can be combined with <b>Lightsteel Sabre</b> to create <b>Divine Sabre</b>"
+    },
+    {
+        "name": "Horn of War",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Health: +375",
+            "Attack Damage: +18",
+            "Armor: +3",
+            "Item Activation - Taunt: Forces the closest 10 enemies to attack this target."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Hypnotic Dust",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "Health Regeneration: +1",
+            "Mana Regeneration: +2"
+        ],
+        "combination": "Can be combined with <b>Bottomless Mana Potion</b> to create <b>Greater Bottomless Mana Potion</b>"
+    },
+    {
+        "name": "Invoker's Mantle",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Intelligence: +6",
+            "Mana: +250"
+        ],
+        "combination": "Can be combined with <b>Air Lord's Cane</b> to create <b>Essence of Lightning</b>"
+    },
+    {
+        "name": "Laceration Unguis",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Agility: +26",
+            "Mana: +400"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Legionnaire's Buckler",
+        "rarity": "Tier 4 Rare",
         "stats": [
-            ""
+            "Health: +500",
+            "Armor: +7"
+        ],
+        "combination": "Can be combined with <b>Hungering Bulwark</b> to create <b>Insatiable Nemesis</b>"
+    },
+    {
+        "name": "Liferoot",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Health Regeneration: +2",
+            "Mana Regeneration: +1"
+        ],
+        "combination": "Can be combined with <b>Bottomless Healing Potion</b> to create <b>Greater Bottomless Healing Potion</b>"
+    },
+    {
+        "name": "Lion's Aegis",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Health: +200",
+            "Armor: +1",
+            "Item Passive - Block: Passively blocks 4 damage from enemy attacks"	
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Longsword",
+        "rarity": "Tier 2 Rare",
         "stats": [
-            ""
+            "Attack Damage: +18"
+        ],
+        "combination": "Can be combined with <b>Mana Trinket</b> to create <b>Mana Edge</b>"
+    },
+    {
+        "name": "Magic's Shade",
+        "rarity": "tier 2 Rare",
+        "stats": [
+            "Mana Regeneration: +2",
+            "Health: +100",
+            "Armor: +2",
+            "Item Passive - Spellblock: Take 12% Reduced Damage from Abilities"
+        ],
+        "combination": "Can be combined with <b>Spell Ward</b> to create <b>Dragon's Shield</b>"
+    },
+    {
+        "name": "Mana Trinket",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Mana: +500",
+            "Mana Regeneration: +1"
+        ],
+        "combination": "Can be combined with <b>Mana-Infused Plate Shoulders</b> to create <b>Zealous</b>"
+    },
+    {
+        "name": "Marauder's Hammer",
+        "rarity": "tier 2 Rare",
+        "stats": [
+            "Strength: +6",
+            "Agility: +6"
+        ],
+        "combination": "Can be combined with <b>Tempest Fist</b> and <b>Essence of Lightning</b> near a Storming Peak to create <b>Stormbringer, Uending Fury</b>"
+    },
+    {
+        "name": "Omensteel Axe",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Attack Damage: +112",
+            "All Attributes: +2"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Pathfinder's Sabatons",
+        "rarity": "Tier 3 Rare",
         "stats": [
-            ""
+            "Attack Speed: +15%",
+            "Movement Speed: +25",
+            "Agility: +8",
+            "Strength: +6"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Pendant of Balance",
+        "rarity": "Tier 3 Rare",
         "stats": [
-            ""
+            "All Attributes: +10"
         ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
+        "combination": "Can be combined with <b>Oblivions Spike</b> to create <b>Gaze of the Abyss</b>"
     },
     {
         "name": "",
