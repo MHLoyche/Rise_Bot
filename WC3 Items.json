@@ -120,7 +120,7 @@
         "name": "Bone Cudgel",
         "rarity": "Tier 3 Rare",
         "stats": [
-            "Damage: +30",
+            "Attack Damage: +30",
             "Strength: +4",
             "Agility: +2"
         ],
@@ -387,500 +387,657 @@
         "combination": "Can be combined with <b>Oblivions Spike</b> to create <b>Gaze of the Abyss</b>"
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Plate Shoulders",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "Health: +175",
+            "Armor: +1",
+            "Strength: +2",
+            "Intelligence: +1"
+        ],
+        "combination": "Can be combined with <b>Bottomless Mana Potion</b> to create <b>Mana Infused Plate Shoulders</b>"
+    },
+    {
+        "name": "Pure Bloodstone Gem",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Health Regeneration: +8",
+            "Mana Regeneration: +4"
+        ],
+        "combination": "Can be combined with <b>Hero's Bottomless Healing Potion</b> to create <b>Champion's Bottomless Healing Potion</b>"
+    },
+    {
+        "name": "Rapid Claw",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Attack Speed: +15%",
+            "Attack Damage: +5",
+            "Strength: +6"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Razor Gloves",
+        "rarity": "Tier 2 Rare",
         "stats": [
-            ""
+            "Attack Speed: +30%"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Reaver Gloves",
+        "rarity": "Tier 4 Rare",
         "stats": [
-            ""
+            "Strength: +23",
+            "Attack Damage: +20"
+        ],
+        "combination": "Can be combined with <b>Weight of Thorns</b> to create <b>Flail of the Red Mist</b>"
+    },
+    {
+        "name": "Ring of Power",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Intelligence: +12",
+            "Mana Regeneration: +2",
+            "Mana Regeneration Rate: 10%",
+            "Health: +100"
+        ],
+        "combination": "Can be combined with <b>Champions Bottomless Mana Potion</b> to create <b>Mana Core</b>"
+    },
+    {
+        "name": "Runed Arrowhead",
+        "rarity": "Tier 2 Rare",
+        "stats": [
+            "Agility: +7",
+            "Attack Speed: +10%",
+            "Attack Damage: +8"
+        ],
+        "combination": "Can be combined with <b>Longsword</b> to create <b>Serrated Arrows</b>"
+    },
+    {
+        "name": "Runestone Pendant",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Health: +150",
+            "Item Activation - Taunt: Forces the closest 5 enemies to attack this target."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Shield of Light",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "All Attributes: +2",
+            "Health: +175",
+            "Armor: +2",
+            "Item Passive - Protect: Increased the armor of nearby allies by 1"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Shimmering Ring",
+        "rarity": "tier 2 Rare",
         "stats": [
-            ""
+            "All Attributes: +3"
+        ],
+        "combination": "Can be combined with <b>Holy Essence</b> to create <b>Pristine Holy Essence</b>"
+    },
+    {
+        "name": "Skull Helmet",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "Strength: +23",
+            "Armor: +5",
+            "Mana Regeneration: +8"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Snake Gloves",
+        "rarity": "Tier 1 Rare",
         "stats": [
-            ""
+            "Attack Speed: +18%"
+        ],
+        "combination": "Can be combined with <b>Razor Gloves</b> to create <b>Viper Gloves</b>"
+    },
+    {
+        "name": "Spell Ward",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Health Regeneration: +3",
+            "Health: +225",
+            "Item Passive - Spellblock: Take 20% Reduced Damage from Abilities"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Spellbinder's Rod",
+        "rarity": "Tier 2 Rare",
         "stats": [
-            ""
+            "Health Regeneration: +2",
+            "Mana Regeneration: +4"
+        ],
+        "combination": "Can be combined with <b>Greater Bottomless Mana Potion</b> to create <b>Hero's Bottomless Mana Potion</b>"
+    },
+    {
+        "name": "Steelheart Shield",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Armor: +5",
+            "Health: +225",
+            "Health Regeneration: +5",
+            "Item Passive - Block: Passively blocks 32 damage from enemy attacks"
+        ],
+        "combination": "Can be combined with <b>Pendant of Balance</b> to create <b>Enigma</b>"
+    },
+    {
+        "name": "Tribal Crown",
+        "rarity": "Tier 3 Rare",
+        "stats": [
+            "Agility: +9",
+            "Attack Damge: +10",
+            "Health: +150",
+            "Health Regeneration: +3"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Veteran's Medallion",
+        "rarity": "Tier 3 Rare",
         "stats": [
-            ""
+            "Strength: +12",
+            "Health: +250",
+            "Armor: +1",
+            "Mana Regeneration: +3"
+        ],
+        "combination": "Can be combined with <b>Horn of War</b> to create <b>Horn of Bloodshed</b>"
+    },
+    {
+        "name": "War Banner",
+        "rarity": "Tier 1 Rare",
+        "stats": [
+            "Attack Speed: +12%",
+            "Strength: +4",
+            "Health: +50"
+        ],
+        "combination": "Can be combined with <b>Rapid Claw</b> to create <b>Ferocity</b>"
+    },
+    {
+        "name": "Watcher's Eye",
+        "rarity": "Tier 4 Rare",
+        "stats": [
+            "All Attributes: +13"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Winged Visage",
+        "rarity": "Tier 4 Rare",
         "stats": [
-            ""
+            "Attack Speed: +40%",
+            "Movement SPeed: +75",
+            "Attack Damage: +20",
+            "Agility: +9"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Zealot's Belt",
+        "rarity": "Tier 2 Rare",
         "stats": [
-            ""
+            "Intelligence: +5",
+            "Strength: +5"
+        ],
+        "combination": "Can be combined with <b>Amplification Orb</b> to create <b>Cane of the Beastlord</b>"
+    },
+    {
+        "name": "Ancient Dragon Eye",
+        "rarity": "Tier 3 Legendary",
+        "stats": [
+            "All Attributes: +20",
+            "Health: +700",
+            "Mana: +700",
+            "Item Activation - Ancient Dragon's Breath: Breathe fire in a cone dealing 3000 damage to all enemies hit"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Armor of Incision",
+        "rarity": "Tier 1 Legendary",
         "stats": [
-            ""
+            "Agility: +18",
+            "Attack Damage: -18",
+            "Intelligence: +5",
+            "Mana Regeneration: +3"
+        ],
+        "combination": "Can be combined with <b>Drakehide Shoulderpads</b> to create <b>Shadowstalker's Cloak</b>"
+    },
+    {
+        "name": "Bert's Legacy",
+        "rarity": "Tier 4 Legendary",
+        "stats": [
+            "Attack Damage: +200",
+            " ",
+            "An ancient mastercrafted sword, though it's spectral appearance, it can still be held. The tip of the sword seems to be broken. as if a piece of it is missing. Maybe it could be restored somehow?"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Centurion's Mask",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Strength: +15",
+            "Agility: +15",
+            "Armor: +8",
+            "Health: +500",
+            "Item Activation - Centurion's Fury: Grant 100 Attack Damage + 30 % increased Attack and movement speed for 20 seconds, but damage take nis increased by 25% for the duration."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Champion's Bottomless Healing Potion",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Health Regeneration: +16",
+            "Mana Regeneration: +8",
+            "Item Activation: Heals for 2000 Health"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Champion's Bottomless Mana Potion",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Mana Regeneration: +12",
+            "Health Regeneration: +6",
+            "Item Activation: Restores 1200 Mana"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Divine Belt",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "All Attributes: +10",
+            "Mana Regeneration Rate: +35%",
+            "Health: +300",
+            "Item Activation - Divine Reckoning: Instantly restore 600 Health and Mana to all nearby allies and increase their damage by 35% for 12 seconds, additionally reduce the armor of nearby enemies by 12"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Doom Visage",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "All Attributes: +15",
+            "Armor: +8",
+            "Item Passive - Cursed Aura: Reduces the armor of nearby enemy units by 12"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Equilibrium",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Intelligence: +40",
+            "Mana Regeneration Rate: +75%",
+            "Mana: +700",
+            "Item Passive - Equilibrium Aura: Grants nearby allied units 15 Mana Regeneration",
+            "Item Activation - Restore: Instantly heal an allied target for 1000 + (6 healing per point of Intelligence the wielder has)"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Essence of Lightning",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Intelligence: +18",
+            "Attack Damage: +15",
+            "Mana: +350",
+            "Item Activation - Chain Lightning: Calls forth a bolt of lightning that bounces up to 8 times, dealing 1000 damage on the primary target. Each jump deals 10% less damage."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Fan of Endless Flow",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Intelligence: +10",
+            "Mana Regeneration: +4",
+            "Mana Regeneration Rate: +50%",
+            "Health: +250"
+        ],
+        "combination": "Can be combined with <b>Mana Edge</b> to create <b>Crystal of Unleashed Power</b>"
+    },
+    {
+        "name": "Heart of the Goddess",
+        "rarity": "Tier 2 Legendary",
+        "stats": [
+            "Mana: +1000",
+            "Item Passive - Purity: When casting an ability, restore health equal to 150% of it's mana cost"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Insatiable Nemesis",
+        "rarity": "Tier 4 Legendary",
         "stats": [
-            ""
+            "Health: +1250",
+            "Armor: +27",
+            "Item Passive - Insatiable Nemesis: Attacks against the wielder has a 25% chance to drain 150 health + (2% of the Wielder's Maximum Health) from the attacker."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Phantom Piercer",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Agility: +20",
+            "Attack Speed: +45%",
+            "Attack Damage: +35",
+            "Movement Speed: +50",
+            "Item Passive - Precision: Attacks that hit enemies from +300 range deals 80% increased base damage"
+        ],
+        "combination": "Can be combined with <b>Manticore Throwing Knives</b> and <b>Phoenix Talon</b> near the <b>Heart of the Volcano</b> to create <b>Shard of the Sun</b>"
+    },
+    {
+        "name": "Relic Hunter",
+        "rarity": "Tier 2 Legendary",
+        "stats": [
+            "Attack Damage: +50",
+            "Attack Speed: +20%",
+            "Strength: +5",
+            "Agility: +5",
+            "Item Passive - Critical Strike: Gives a 10% chance on an attack to deal 200% damage",
+            "Item Passive - Relic Hunting: Enemies killed by the wielder of this weapon have a small chance of dropping Veiled Equipment"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Scales of the Deep",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Agility: +45",
+            "Mana: +1000"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Scepter of Power",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Intelligence: +40",
+            "Item Activation - Draw Power: Grants +50 Intelligence for 20 seconds"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Shellcore Blaster",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Attack Damage: +100",
+            "Agility: +15",
+            "Intelligence: +5",
+            "Item Activiation - Snipe: Instantly blast an enemy target and its nearby allies for 250 damage + (5 bonus damage per point of agility) this also stuns the primary target for 2 seconds"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Silver Tiara",
+        "rarity": "Tier 1 Legendary",
         "stats": [
-            ""
+            "All Attributes: +1",
+            "Armor: +1",
+            "Attack Damage: +1",
+            "Mana Regeneration: +1",
+            "Health Regeneration: +1",
+            "Health: +1",
+            "Mana: +1",
+            "Attack Speed: +1%"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Spectral Sword Piece",
+        "rarity": "Tier 4 Legendary",
         "stats": [
-            ""
+            "Attack Damage: +200"
+        ],
+        "combination": "Can be combined with <b>Bert's Legacy</b> to create <b>Ghostclaw</b>"
+    },
+    {
+        "name": "Swiftshot",
+        "rarity": "Tier 1 Legendary",
+        "stats": [
+            "Attack Speed: +30%",
+            "Agility: +9",
+            "Attack Damage: +7",
+            "Movement Speed: +50"
+        ],
+        "combination": "Can be combined with <b>Serrated Arrows</b> to create <b>Phantom Piercer</b>"
+    },
+    {
+        "name": "Tempest Fist",
+        "rarity": "Tier 2 Legendary",
+        "stats": [
+            "Attack Speed: +70%",
+            "Intelligence: +30",
+            "Agility: +15",
+            "Item Activation - Haste Aura: Cast an aura that increases the Attack and Movement Speed of all nearby allies by 25% for 12 seconds",
+            "Item Passive - Intelligent: Activating Haste Aura refunds 100 Mana if the Bearer has atleast 75 Intelligence"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "The Peacekeeper",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Strength: +20",
+            "Armor: +1"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "The Plunderer's Persuasion",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "Strength: +12",
+            "Agility: +12",
+            "Item Passive - The Plunderer's Persuasion: Enemies killed by the wielder of this weapon have a small chance of dropping Random Loot"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "The Shieldmaiden",
+        "rarity": "Tier 3 Legendary",
         "stats": [
-            ""
+            "Attack Damage: +30",
+            "Strength: +45",
+            "Health: +600",
+            "Armor: +7",
+            "Mana Regeneration +5",
+            "Item Activation - Taunt: Forces the closest 10 enemies to attack this target.",
+            "Item Passive - Valkyrie's Chosen: For each enemy taunted restore 2% maximum health."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Tools of the Architect",
+        "rarity": "Tier 2 Legendary",
         "stats": [
-            ""
+            "All Attributes: +15",
+            "Item Passive - Bash: Attacks have a 5% chance to deal 250 bonus damage and stun the target for 1 second",
+            "Item Passive - Valuable: This item sells for 2500 gold"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Air Lord's Cane",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Intelligence: +8",
+            "Attack Damage: +7",
+            "Item Activation - Chain Lightning: Calls forth a bolt of lightning that bounces up to 3 times, dealing 500 damage on the primary target. Each jump deals 25% less damage."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Amplification Orb",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Intelligence: +30",
+            "Attack Damage: -30"
+        ],
+        "combination": "Can be combined with <b>Essence of Lightning</b> near a <b>Storming Peak</b> to create <b>Eye of the Storm</b>"
+    },
+    {
+        "name": "Blade Gloves",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Attack Speed: +15%",
+            "Attack Damage: +5",
+            "Health: +75",
+            "Strength: +2",
+            "Agility: +2"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Captain Andre's Blade",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Attack Damage: +12",
+            "Health: +50"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Crimson Guard",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Attack Damage: +50",
+            "Health: +600"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Crown of Order",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Strength: +27",
+            "Intelligence: +27",
+            "Health: +350",
+            "Mana: +350"
+        ],
+        "combination": "Can be combined with <b>Gloves of the Mage Kings</b> to create <b>Vision of the God King</b>"
+    },
+    {
+        "name": "Cursed Mask of Fear",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "All Attributes: +3",
+            "Armor: +5",
+            "Item Passive - Cursed Aura: Reduces the armor of nearby allied units by 2"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Dagger of Fel",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Agility: +5",
+            "Intelligence: +5",
+            "Item Activation - Blood Sacrifice: Sacrifices 125 health to restore 350 mana"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Darkfang's Fang",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Strength: +32",
+            "Agility: +32"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Dragon's Shield",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Health: +350",
+            "Armor: +3",
+            "Health Regeneration: +3",
+            "Mana Regeneration +2",
+            "Item Passive - Spellblock: Take 32% Reduced Damage from Abilities."
+        ],
+        "combination": "Can be combined with <b>Champion's Bottomless Healing Potion</b> to create <b>Embrace of the Void</b>"
+    },
+    {
+        "name": "Enigma",
+        "rarity": "Tier 3 Epic",
+        "stats": [
+            "All Attributes: +10",
+            "Armor: +5",
+            "Health: +225",
+            "Health Regeneration: +5",
+            "Item Passive - Block: Passively blocks 64 damage from enemy attacks"
+        ],
+        "combination": "Can be combined with <b>Purified Bloodstone Helmet</b> and <b>Indestructible</b> near a <b>Holy Fountain</b> to create <b>Divinuas, Heaven's Vanguard</b>"
+    },
+    {
+        "name": "Ferocity",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Attack Speed: +28%",
+            "Attack Damage: +12",
+            "Strength: +10",
+            "Health: +75",
+            "Item Passive - Carnage: Attacks Restore 15 health"
+        ],
+        "combination": "Can be combined with <b>Doom Cleaver</b> and <b>Fireguard</b> near a <b>Crypt Altar</b> to create <b>Corpse Carnage</b>"
+    },
+    {
+        "name": "Fireguard",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Attack Damage: +15",
+            "Strength: +9"
+        ],
+        "combination": "Can be combined with <b>Heart of the Phoenix</b> to create <b>Gloves of the First Flame</b>"
+    },
+    {
+        "name": "Flayer's Cursed Dagger",
+        "rarity": "Tier 3 Epic",
+        "stats": [
+            "Attack Damage: +40",
+            "Intelligence: +10",
+            "Agility: +8",
+            "Health Regeneration: -100",
+            "Item Activation - Feed Blood: Lose 200 permanent maximum health, but gain 30 permanent attack damage, this destroys the item - This effect cannot be undone"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Flayer's Dagger",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Attack Damage: +70",
+            "Intelligence: +10",
+            "agility: +8",
+            "Item Activation - Absorb Power: Gain 30 permanent attack damage, this destroys the item - This effect cannot be undone"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Gloves of Fury",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Attack Speed: +20%",
+            "Strength: +4",
+            "Agility: +2",
+            "Item Passive - Critical Strike: Gives a 10% chance on an attack to deal 150% damage"
         ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
-    },
-    {
-        "name": "",
-        "rarity": "",
-        "stats": [
-            ""
-        ],
-        "combination": ""
+        "combination": "Can be combined with <b>Drakehide Shoulderpads</b> to create <b>Bounty Hunter's Garb</b>"
     },
     {
         "name": "",

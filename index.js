@@ -12,9 +12,10 @@ const client = new Client({
     ],
 });
 
-const CHANNEL_ID = '1343875492272541749'; // Channel ID for patch notes
-const CHANNEl_ID_DL = ''; // Channel ID for download links
-const LOG_FILE = 'testdb.log';
+const CHANNEL_ID = '895068332951232522'; // Channel ID for patch notes 
+const CHANNEL_ID_DL = '963179290969645057'; // Channel ID for download links
+const LOG_FILE = 'patchnotes.log';
+const LOG_FILE_DL = 'downloadlinks.log';
 
 // run script with 'node index.js' in terminal
 client.once('ready', () => {
@@ -28,6 +29,7 @@ process.on("SIGINT", () => {
     process.exit(0);
 });
 
+// Log patch notes to a file
 client.on('messageCreate', async (message) => {
     // Ignore bot messages and messages outside the specified channel
     if (message.author.bot || message.channel.id !== CHANNEL_ID) return;
@@ -57,6 +59,35 @@ client.on('messageCreate', async (message) => {
 
         // Overwrite the file with new order (newest messages at the top)
         fs.writeFileSync(LOG_FILE, updatedLogs, "utf8");
+
+        console.log(`Stored message at the start: ${message.content}`);
+    } catch (err) {
+        console.error("Error saving message:", err);
+    }
+});
+
+// Log download links to a file
+client.on('messageCreate', async (message) => { 
+
+    // Ignore bot messages and messages outside the specified channel
+    if (message.author.bot || message.channel.id !== CHANNEL_ID_DL) return;
+
+    // Format the current date and time
+    console.log(`Received message: ${message.content}`);
+    const logEntry = `${message.content}\n\n`;
+
+    try {
+        // Read existing logs
+        let existingLogs = "";
+        if (fs.existsSync(LOG_FILE_DL)) {
+            existingLogs = fs.readFileSync(LOG_FILE_DL, "utf8");
+        }
+
+        // Prepend new log entry at the beginning
+        const updatedLogs = logEntry + "---\n\n" + existingLogs;
+
+        // Overwrite the file with new order (newest messages at the top)
+        fs.writeFileSync(LOG_FILE_DL, updatedLogs, "utf8");
 
         console.log(`Stored message at the start: ${message.content}`);
     } catch (err) {

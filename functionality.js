@@ -1,6 +1,6 @@
 /* Fetching patch notes from testdb.log for home page */
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("testdb.log")
+    fetch("patchnotes.log")
         .then(response => response.text())
         .then(data => {
             document.getElementById("changelog").textContent = data;
@@ -10,6 +10,40 @@ document.addEventListener("DOMContentLoaded", function () {
             console.error("Error loading patch notes:", error);
         });
 });
+
+/* Fetching downloadlinks.log for download page */
+document.addEventListener("DOMContentLoaded", function () {
+    fetch("downloadlinks.log")
+        .then(response => response.text())
+        .then(data => {
+            const container = document.getElementById("new_download");
+            const entries = data.split("---").map(entry => entry.trim()).filter(Boolean);
+
+            container.innerHTML = entries.map(entry => {
+                const match = entry.match(/(Rise_v[\d.]+)\s+(https?:\/\/[^\s]+)(.*)?/);
+                if (match) {
+                    const version = match[1];
+                    const url = match[2];
+                    const note = match[3] ? match[3].trim() : "";
+
+                    return `
+                        <div style="margin-bottom: 1em;">
+                            <strong>${version}</strong>: 
+                            <a href="${url}" target="_blank">${url}</a>
+                            ${note ? `<em> – ${note}</em>` : ""}
+                        </div>
+                    `;
+                } else {
+                    return `<div>${entry}</div>`; // fallback for unrecognized lines
+                }
+            }).join("");
+        })
+        .catch(error => {
+            document.getElementById("new_download").textContent = "Failed to load download links.";
+            console.error("Error loading download links.", error);
+        });
+});
+
 
 
 /* Filter through drop down menu */
@@ -26,12 +60,11 @@ function filterItems() {
     }
 }
 
-
 /* Script to create item cards */
 fetch('WC3 Items.json')
     .then(response => response.json())
     .then(data => {
-        const container = document.getElementById('itemGrid'); // Assuming an existing div
+        const container = document.getElementById('itemGrid'); // Getting div to append item cards to
 
         data.forEach(item => {
             const itemCard = document.createElement('div');
@@ -46,10 +79,27 @@ fetch('WC3 Items.json')
                 <div class="item_description">
                     <p>${item.stats.join('<br>')}</p>
                 </div>
-                ${item.combination ? `<p>${item.combination}</p>` : ''}
+                ${item.combination ? `<p style="font-size: 13px;">${item.combination}</p>` : ''}
             `;
 
             container.appendChild(itemCard);
         });
     })
     .catch(error => console.error('Error loading the items:', error));
+
+
+/* Search bar functionality */
+function searchGrid() {
+    let input = document.getElementById('searchBar').value.toLowerCase();
+    let items = document.querySelectorAll('.itemCard');
+    
+    items.forEach(item => {
+        let text = item.textContent || item.innerText;
+        if (text.toLowerCase().includes(input)) {
+            item.style.display = "block"; // Show the item
+        } else {
+            item.style.display = "none"; // Hide the item
+        }
+    });
+}
+    

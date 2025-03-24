@@ -57,10 +57,12 @@ html {
     padding: 20px;
 }
 
-.grid, .item_grid {
+.item_grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, 300px);
     gap: 20px;
+    justify-content: center;
+    margin: 5px auto;
 }
 
 .card {
@@ -69,6 +71,18 @@ html {
     align-items: center; 
     text-align: center; 
     padding: 20px;
+}
+
+.downloads {
+    display: flex;
+    align-items: left;
+    text-align: left;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgba(0,0,0,0.2); 
+    height: 300px; 
+    overflow-y: auto;
 }
 
 /* Footer */
@@ -142,8 +156,7 @@ html {
     padding: 20px;
     background-color: white;
     height: 400px;
-    max-width: 300px;
-    margin: 5px;
+    width: 300px;
     border-radius: 10px;
     border: black 1px solid;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
