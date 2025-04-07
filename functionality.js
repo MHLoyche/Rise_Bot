@@ -44,8 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 });
 
-
-
 /* Filter through drop down menu */
 function filterItems() {
     var category = document.getElementById("itemCategory").value;
@@ -58,6 +56,21 @@ function filterItems() {
             items[i].style.display = "none";
         }
     }
+}
+
+/* Search bar functionality */
+function searchGrid() {
+    let input = document.getElementById('searchBar').value.toLowerCase();
+    let items = document.querySelectorAll('.itemCard');
+    
+    items.forEach(item => {
+        let text = item.textContent || item.innerText;
+        if (text.toLowerCase().includes(input)) {
+            item.style.display = "block"; // Show the item
+        } else {
+            item.style.display = "none"; // Hide the item
+        }
+    });
 }
 
 /* Script to create item cards */
@@ -88,18 +101,60 @@ fetch('WC3 Items.json')
     .catch(error => console.error('Error loading the items:', error));
 
 
-/* Search bar functionality */
-function searchGrid() {
-    let input = document.getElementById('searchBar').value.toLowerCase();
-    let items = document.querySelectorAll('.itemCard');
-    
-    items.forEach(item => {
-        let text = item.textContent || item.innerText;
-        if (text.toLowerCase().includes(input)) {
-            item.style.display = "block"; // Show the item
-        } else {
-            item.style.display = "none"; // Hide the item
-        }
-    });
-}
-    
+/* Script to create hero cards */
+fetch('heroes.json')
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById("hero_container");
+  
+      data.forEach(hero => {
+        const card = document.createElement("div");
+        card.className = "hero_card";
+  
+        const image = document.createElement("img");
+        image.className = "hero_image";
+        image.src = `img/Heroes/${hero.name}.png`;
+        image.alt = `${hero.name} Image`;
+  
+        const info = document.createElement("div");
+        info.className = "hero_info";
+  
+        const intro = document.createElement("p");
+        intro.innerText = `${hero.name} main stat is ${hero["main stat"].toLowerCase()}`;
+  
+        const statsList = document.createElement("ul");
+        statsList.className = "hero_stats";
+        hero.stats.forEach(stat => {
+          const li = document.createElement("li");
+          li.textContent = stat;
+          statsList.appendChild(li);
+        });
+  
+        const buttonContainer = document.createElement("div");
+        const abilityText = document.createElement("div");
+        abilityText.className = "ability_text";
+  
+        hero.abilities.forEach(ability => {
+          const btn = document.createElement("button");
+          const abilityKey = ability.split(":")[0].trim();
+          btn.textContent = ability;
+          btn.onclick = () => {
+            const match = hero["abilty description"].find(desc => desc.startsWith(`${abilityKey}:`));
+            abilityText.innerText = match || "No description found.";
+          };
+          buttonContainer.appendChild(btn);
+        });
+  
+        info.appendChild(intro);
+        info.appendChild(statsList);
+        info.appendChild(buttonContainer);
+        info.appendChild(abilityText);
+  
+        card.appendChild(image);
+        card.appendChild(info);
+        container.appendChild(card);
+      });
+});
+  
+  
+  

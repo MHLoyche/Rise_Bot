@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Waterboi",
+        "main stat": "Intelligence",
+        "stats": [
+            "Health: 630",
+            "Mana: 280",
+            "Strength: 22",
+            "Agility: 18",
+            "Intelligence: 25",
+            "Armor: 2",
+            "Attack Damage: 40-50"
+        ],
+        "abilities": [
+            "Q: Water Blast",
+            "W: Water Shield",
+            "E: Water Walk",
+            "F: Water Passive",
+            "R: Waterfall"
+        ],   
+        "abilty description": [
+            "Q: Water Blast - Deals 100 damage to the target and slows them by 30% for 2 seconds.",
+            "W: Water Shield - Grants a shield that absorbs 200 damage for 5 seconds.",
+            "E: Water Walk - Increases movement speed by 20% for 4 seconds.",
+            "F: Water Passive - Summons a donkey that charges at enemies, dealing 150 damage.",
+            "R: Waterfall - Creates a waterfall that heals allies in the area for 50 health per second."
+        ]
+    },
+    {
+        "name": "Waterboi",
+        "main stat": "Intelligence",
+        "stats": [
+            "Health: 630",
+            "Mana: 280",
+            "Strength: 22",
+            "Agility: 18",
+            "Intelligence: 25",
+            "Armor: 2",
+            "Attack Damage: 40-50"
+        ],
+        "abilities": [
+            "Q: Water Blast",
+            "W: Water Shield",
+            "E: Water Walk",
+            "F: Water Passive",
+            "R: Waterfall"
+        ],   
+        "abilty description": [
+            "Q: Water Blast - Deals 100 damage to the target and slows them by 30% for 2 seconds.",
+            "W: Water Shield - Grants a shield that absorbs 200 damage for 5 seconds.",
+            "E: Water Walk - Increases movement speed by 20% for 4 seconds.",
+            "F: Water Passive - Summons a donkey that charges at enemies, dealing 150 damage.",
+            "R: Waterfall - Creates a waterfall that heals allies in the area for 50 health per second."
+        ]
+    },
+    {
+        "name": "Waterboi",
+        "main stat": "Intelligence",
+        "stats": [
+            "Health: 630",
+            "Mana: 280",
+            "Strength: 22",
+            "Agility: 18",
+            "Intelligence: 25",
+            "Armor: 2",
+            "Attack Damage: 40-50"
+        ],
+        "abilities": [
+            "Q: Water Blast",
+            "W: Water Shield",
+            "E: Water Walk",
+            "F: Water Passive",
+            "R: Waterfall"
+        ],   
+        "abilty description": [
+            "Q: Water Blast - Deals 100 damage to the target and slows them by 30% for 2 seconds.",
+            "W: Water Shield - Grants a shield that absorbs 200 damage for 5 seconds.",
+            "E: Water Walk - Increases movement speed by 20% for 4 seconds.",
+            "F: Water Passive - Summons a donkey that charges at enemies, dealing 150 damage.",
+            "R: Waterfall - Creates a waterfall that heals allies in the area for 50 health per second."
+        ]
+    },
+    {
+        "name": "Waterboi",
+        "main stat": "Intelligence",
+        "stats": [
+            "Health: 630",
+            "Mana: 280",
+            "Strength: 22",
+            "Agility: 18",
+            "Intelligence: 25",
+            "Armor: 2",
+            "Attack Damage: 40-50"
+        ],
+        "abilities": [
+            "Q: Water Blast",
+            "W: Water Shield",
+            "E: Water Walk",
+            "F: Water Passive",
+            "R: Waterfall"
+        ],   
+        "abilty description": [
+            "Q: Water Blast - Deals 100 damage to the target and slows them by 30% for 2 seconds.",
+            "W: Water Shield - Grants a shield that absorbs 200 damage for 5 seconds.",
+            "E: Water Walk - Increases movement speed by 20% for 4 seconds.",
+            "F: Water Passive - Summons a donkey that charges at enemies, dealing 150 damage.",
+            "R: Waterfall - Creates a waterfall that heals allies in the area for 50 health per second."
+        ]
+    },
+    {
+        "name": "Waterboi",
+        "main stat": "Intelligence",
+        "stats": [
+            "Health: 630",
+            "Mana: 280",
+            "Strength: 22",
+            "Agility: 18",
+            "Intelligence: 25",
+            "Armor: 2",
+            "Attack Damage: 40-50"
+        ],
+        "abilities": [
+            "Q: Water Blast",
+            "W: Water Shield",
+            "E: Water Walk",
+            "F: Water Passive",
+            "R: Waterfall"
+        ],   
+        "abilty description": [
+            "Q: Water Blast - Deals 100 damage to the target and slows them by 30% for 2 seconds.",
+            "W: Water Shield - Grants a shield that absorbs 200 damage for 5 seconds.",
+            "E: Water Walk - Increases movement speed by 20% for 4 seconds.",
+            "F: Water Passive - Summons a donkey that charges at enemies, dealing 150 damage.",
+            "R: Waterfall - Creates a waterfall that heals allies in the area for 50 health per second."
+        ]
+    }
+]

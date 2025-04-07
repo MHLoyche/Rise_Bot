@@ -655,7 +655,7 @@
         "combination": ""
     },
     {
-        "name": "Divine Belt",
+        "name": "Divine Bell",
         "rarity": "Tier 3 Legendary",
         "stats": [
             "All Attributes: +10",
@@ -1040,178 +1040,396 @@
         "combination": "Can be combined with <b>Drakehide Shoulderpads</b> to create <b>Bounty Hunter's Garb</b>"
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Zephyr's Tome",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Intelligence: +12",
+            "Attack Speed: +20%",
+            "Item Activation - Hasten: Grants an allied target 25% Attack Speed for 15 seconds",
+            "Item Passive - Intelligent: Activating Hasten refunds 100 Mana if the Bearer has atleast 75 Intelligence"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Warlord's Crown",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Strength: +30",
+            "Attack Damage: +25",
+            "Health: +250"
+        ],
+        "combination": "Can be combined with a Horn of Bloodshed to create The Shieldmaiden"
+    },
+    {
+        "name": "War Bell",
+        "rarity": "Tier 3 Epic",
+        "stats": [
+            "Mana Regeneration Rate: +30%",
+            "Health: +250",
+            "Item Activation - Call to Arms: Reduces the armor of all nearby enemy units by 12 and increasing all allied units damage by 35% for 12 seconds"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Viper Gloves",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Attack Speed: +55%"
+        ],
+        "combination": "Can be combined with Zephyr's Tome to create Tempest Fist"
+    },
+    {
+        "name": "Vanguard Helmet",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Health: +225",
+            "Armor: +2",
+            "Health Regeneration: +2"
+        ],
+        "combination": "Can be combined with Pristine Holy Essence to create Angelic Faceguard"
+    },
+    {
+        "name": "Unholy Urn",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "All Attributes: +3",
+            "Mana: +150",
+            "Item Passive - Unholy Urn: Nearby allied heroes restore 6% of their damage with attacks as health."
+        ],
+        "combination": "Can be combined with a Bone Cudgel and an Amplification Orb near a Crypt Altar to create Cryptdweller's Thirst"
+    },
+    {
+        "name": "Trickster's Cloak",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Agility: +12",
+            "Damage: -12"
+        ],
+        "combination": "Can be combined with Jade Figurine to create Armor of Incision"
+    },
+    {
+        "name": "Sword of Kings",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Attack Damage: +50"
+        ],
+        "combination": "Can be combined with Gloves of Fury to create Relic Hunter"
+    },
+    {
+        "name": "Swiftstep",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Agility: +5",
+            "Attack Speed: +10%",
+            "Movement Speed: 50"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Swampstalker's Grasp",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Agility: +41",
+            "Mana: +650",
+            "Mana Regeneration: +5"
+        ],
+        "combination": "Can be combined with Iaijutsu and Ghost Lotus near The Void to create Realm Edge"
+    },
+    {
+        "name": "Shellcore Rifle",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Attack Damage: +40",
+            "Agility: +5"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Shellcore Hollow Points",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "Attack Damage: +35",
+            "Agility: +4",
+            "Intelligence: +4"
+        ],
+        "combination": "Can be combined with a Shellcore Rifle to create a Shellcore Blaster"
+    },
+    {
+        "name": "Sacred Tome",
+        "rarity": "Tier 3 Epic",
+        "stats": [
+            "Intelligence: +30",
+            "Mana Regeneration Rate: +75%",
+            "Item Activation - Restore: Instantly heal an allied target for 1000 + (6 healing per point of Intelligence the wielder has)"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Royal Vestment",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Intelligence: +20",
+            "Strength: +15",
+            "Agility: +15",
+            "Mana: +400",
+            "Armor: +8"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Purified Bloodstone Helmet",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Health: +450",
+            "Damage: +60",
+            "Armor: +5",
+            "Item Passive - Purify Blood: Attacks restore 50 health."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Pristine Holy Essence",
+        "rarity": "Tier 2 Epic",
         "stats": [
-            ""
+            "All Attributes: +6"
+        ],
+        "combination": "Can be combined with a War Bell to create a Divine Bell"
+    },
+    {
+        "name": "Phoenix Talon",
+        "rarity": "Tier 3 Epic",
+        "stats": [
+            "Intelligence: +20",
+            "Agility: +20",
+            "Mana Regeneration: +4"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Obsidian Core",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "All Attributes: +23",
+            "Health: -460"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Oblivion Spike",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Intelligence: +20",
+            "Mana Regeneration: +3",
+            "Item Activation - Pierce Soul: Instantly deal 400 damage + (3 damage per point of Intelligence) to an enemy target and heal the wearer for the same amount"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Nebula Key",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Intelligence: +25",
+            "Health: +400",
+            "Mana Regeneration Rate: +35%"
+        ],
+        "combination": "Can be combined with an Oblivion Spike and a Scepter of Power near Nothing to create Kronos, Bane of the Cosmos"
+    },
+    {
+        "name": "Nature's Runestone",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Health: +300",
+            "All Stats: +2",
+            "Item Activation - Taunt: Forces the closest 10 enemies to attack this target."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Moonreaver",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Intelligence: +35"
+        ],
+        "combination": "Can be combined with a Greensprout to create Aneyashhek, Staff of Life"
+    },
+    {
+        "name": "Mask of Fear",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "All Attributes: +8",
+            "Armor: +7"
+        ],
+        "combination": "Can be combined with a Pendant of Balance to create Doom Visage"
+    },
+    {
+        "name": "Marius' Energised Wand",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Intelligence: +5",
+            "Item Passive - Energized: Attacks restore 4 mana"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Liquid Bloodstone",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Attack Damage: +40",
+            "Strength: +8",
+            "Agility: +8",
+            "Mana Regeneration: +1.5",
+            "Passive Orb Effect - Lifesteal: Attacks restore 15% of the damage dealt as health"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Lightsteel Sabre",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Attack Damage: +6",
+            "Attack Speed: +10%",
+            "Strength: +2",
+            "Agility: +2"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Lifebinder's Artifact",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Intelligence: +8",
+            "Attack Damage: -8",
+            "Attack Speed: -5%",
+            "Item Activation - Preserve Life: Restore 150 health + (2 per point of Intelligence) to an allied target and yourself.",
+
+            "Can be cast on yourself for double the effect"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Knight's Medallion",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Armor: +5"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Jade Figurine",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Mana Regeneration: +2",
+            "Intelligence: +3",
+            "Agility: +3"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Indestructible",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Health: +500",
+            "Armor: +14"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Iaijutsu",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Agility: +30",
+            "Attack Damage: +50",
+            "Attack Speed: +10%"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Hungering Bulwark",
+        "rarity": "Tier 4 Epic",
         "stats": [
-            ""
+            "Health: +750",
+            "Armor: +17",
+            "Item Passive - Hungering Bulwark: Attacks against the wielder has a 25% chance to reflect 100 damage + (1% of the Wielder's Maximum Health) to the attacker."
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Huge Glaive",
+        "rarity": "Tier 1 Epic",
         "stats": [
-            ""
+            "Attack Damage: +9",
+            "Strength: +4",
+            "Health: +175"
         ],
         "combination": ""
     },
     {
-        "name": "",
-        "rarity": "",
+        "name": "Horn of Bloodshed",
+        "rarity": "Tier 3 Epic",
         "stats": [
-            ""
+            "Health: +600",
+            "Strength: +15",
+            "Armor: +4",
+            "Mana Regeneration: +3",
+            "Item Activation - Taunt: Forces the closest 10 enemies to attack this target."
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Hero's Bottomless Mana Potion",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Mana Regeneration: +6",
+            "Health Regeneration: +3",
+            "Item Activation: Restores 600 Mana (30 Seconds cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Hero's Bottomless Healing Potion",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Health Regeneration: +8",
+            "Mana Regeneration: +3",
+            "Item Activation: Heals for 1000 Health (30 Seconds cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Hallowed Skull",
+        "rarity": "Tier 4 Epic",
+        "stats": [
+            "Intelligence: +100",
+            "Mana: -1000"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Greater Bottomless Mana Potion",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Mana Regeneration: +3",
+            "Health Regeneration: +1",
+            "Item Activation: Restores 300 Mana (30 Second cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Greater Bottomless Healing Potion",
+        "rarity": "Tier 1 Epic",
+        "stats": [
+            "Health Regeneration: +3",
+            "Mana Regeneration: +1",
+            "Item Activation: Heals for 500 Health (30 Seconds cooldown)"
+        ],
+        "combination": ""
+    },
+    {
+        "name": "Golem Helmet",
+        "rarity": "Tier 2 Epic",
+        "stats": [
+            "Health: +350",
+            "Armor: +4"
         ],
         "combination": ""
     }
